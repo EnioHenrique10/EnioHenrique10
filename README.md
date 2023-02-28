@@ -1,7 +1,7 @@
 ### Olá eu sou Enio Henrique ✌️
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enio-henrique-a5279520b/)
-[![email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eniohenrique21@gmail.com)
+[![email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://eniohenrique21@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eniohenri)
 
 ![EnioHenrique10 GitHub stats](https://github-readme-stats.vercel.app/api?username=eniohenrique10&show_icons=true&theme=radical)
